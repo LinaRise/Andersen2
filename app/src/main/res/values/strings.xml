@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andersen2</string>
+    <string name="happy_birthday_to_mark">Happy Birthday to Mark</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="_0">0</string>
+    <string name="toast_message">Hello Toast!!!</string>
+</resources>
